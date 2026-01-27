@@ -1,0 +1,3 @@
+Cerbero es el perro monstruoso que custodia el acceso al inframundo. Su función no es castigar ni gobernar, sino vigilar el umbral entre el mundo de los vivos y el reino de los muertos. En la mitología griega, Cerbero garantiza que el dominio de [[Hades]] permanezca cerrado: impide que los vivos entren y que los muertos regresen.
+
+Cerbero no posee autoridad propia; su poder es funcional y derivado del orden que protege. Representa la materialización del límite entre vida y muerte, y hace efectivo, en forma concreta, el carácter irreversible del Hades como lugar. Su derrota o evasión en algunos mitos no anula su sentido simbólico, sino que subraya el carácter excepcional y transgresor de quien logra cruzar ese umbral.

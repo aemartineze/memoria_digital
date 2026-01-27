@@ -1,0 +1,2 @@
+La epistemología es la rama de la [[Filosofía]] que estudia el conocimiento: qué es, cómo lo obtenemos, qué lo hace válido o verdadero, y cuáles son sus límites. 
+Se pregunta cuestiones fundamentales como: ¿Cómo sabemos lo que sabemos? ¿Qué diferencia una creencia verdadera de una opinión? ¿Podemos confiar en nuestros sentidos? ¿Qué hace que algo sea conocimiento científico versus mera especulación? En esencia, es la teoría del conocimiento, que examina los fundamentos, métodos y validez de lo que consideramos "saber algo"

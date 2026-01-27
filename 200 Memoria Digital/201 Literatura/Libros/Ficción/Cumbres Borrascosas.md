@@ -1,0 +1,1 @@
+Es un libro escrito por [[Brontë, Emily]]. Fue publicado por primera vez en 1847 bajo el [[seudónimo masculino]] de Ellis Bell. 
