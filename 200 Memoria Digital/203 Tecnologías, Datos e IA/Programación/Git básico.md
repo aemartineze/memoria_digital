@@ -17,6 +17,8 @@ git init
 git remote add origin URL_DEL_REPOSITORIO
 ~~~
 
+El url del repositorio tiene .git
+
 Verificar conexión:
 
 ~~~bash
@@ -34,7 +36,7 @@ git push -u origin main
 
 La carpeta local queda sincronizada con el repositorio remoto.
 
-## Flujo básico de trabajo
+## 5. Flujo básico de trabajo
 
 ### Subir cambios (push)
 
@@ -50,9 +52,20 @@ git push
 git pull
 ~~~
 
+
+## 6. Clonar un repositorio
+
+Permite descargar un proyecto desde GitHub a tu computadora.
+
+### Comando básico
+
+~~~bash
+git clone URL_DEL_REPOSITORIO
+~~~
 ---
 
 ## Reglas rápidas
+
 - No hacer `git pull` con cambios sin commitear.
 - Commits pequeños y claros.
 - `push` envía cambios al remoto.
