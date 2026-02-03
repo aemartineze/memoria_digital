@@ -1,1 +1,9 @@
-El Rigveda es el texto más antiguo de la tradición india y uno de los libros religiosos más antiguos del mundo. Compuesto en sánscrito védico entre los siglos XV y XII a.C., reúne himnos poéticos dirigidos a deidades vinculadas a fuerzas naturales y al orden del cosmos, como [[Agni]] (el fuego ritual), [[Indra]] (el poder y la victoria) y [[Varuna]] (la ley y el orden cósmico). El texto expresa una visión plural de lo divino y se articula en torno a la noción de [[ṛta]], el principio que sostiene el equilibrio del universo. Más que una doctrina cerrada, el Rig Veda constituye un testimonio temprano del pensamiento ritual, simbólico y cosmológico que dará lugar a desarrollos posteriores de la filosofía india 
+**Autor / Cultura:** Tradición védica, India antigua  
+**Fecha:** c. siglos XV–XII a. C.  
+**Tipo:** Texto sagrado / poético  
+**Tema:** Ritual, cosmos, orden, lo divino
+
+**Descripción:**  
+El **Rig Veda** es el texto más antiguo de la tradición india y uno de los libros religiosos más antiguos del mundo. Compuesto en sánscrito védico, reúne himnos poéticos dirigidos a deidades asociadas a fuerzas naturales y al orden del cosmos, como [[Agni]] (el fuego ritual), [[Indra]] (el poder y la victoria) y [[Varuna]] (la ley y el orden cósmico).
+
+El texto expresa una visión plural de lo divino y se articula en torno a la noción de [[ṛta]], el principio que sostiene el equilibrio del universo. Más que una doctrina cerrada, el **Rig Veda** constituye un testimonio temprano del pensamiento ritual, simbólico y cosmológico que dará lugar a desarrollos posteriores de la filosofía india.

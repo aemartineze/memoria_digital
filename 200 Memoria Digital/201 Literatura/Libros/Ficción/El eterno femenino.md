@@ -1,0 +1,1 @@
+Obra teatral de [[Castellanos, Rosario|Rosario Castellanos]] publicada en 1975. A través de la sátira y el humor crítico, cuestiona los **estereotipos femeninos** impuestos por la cultura patriarcal, explorando los roles de esposa, madre y figura idealizada de “la mujer”. Es una pieza clave del **teatro feminista latinoamericano** por su tono irónico y su mirada desmitificadora.

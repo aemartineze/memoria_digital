@@ -1,3 +1,7 @@
+---
+aliases:
+  - filosofía
+---
 # Concepto
 
 La filosofía es la disciplina que busca comprender la realidad, el conocimiento y la acción humana mediante la pregunta crítica y el razonamiento, no mediante la fe ni la experimentación científica directa

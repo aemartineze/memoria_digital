@@ -1,4 +1,4 @@
-El método científico es un proceso sistemático  dentro de la [[Epistemología]] para obtener conocimiento confiable sobre la naturaleza y el mundo. 
+El método científico es un proceso sistemático  dentro de la [[Epistemología|epistemología]] para obtener conocimiento confiable sobre la naturaleza y el mundo. 
 
 Funciona mediante pasos: primero se observa un fenómeno, luego se formula una hipótesis (una explicación tentativa), después se diseñan experimentos para probar esa hipótesis, se recogen y analizan datos, y finalmente se sacan conclusiones. 
 
