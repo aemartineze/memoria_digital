@@ -1,0 +1,1 @@
+Amazon Simple Storage Service es un servicio de almacenamiento de objetos en la nube. Guardar y recuperar archivo desde el internet. Almacena la información de forma segura, escalable y duradera

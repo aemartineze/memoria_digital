@@ -13,7 +13,8 @@ Cuando ese equilibrio se mantiene, hay claridad y serenidad; cuando se pierde, a
 
 Esta concepción implica que el alma no es algo fijo ni pasivo, sino algo que puede cultivarse o deteriorarse. Vivir bien significa, ante todo, aprender a ordenar la propia vida interior.
 
-[[Pitágoras]] sostenía además que el alma es inmortal y no se destruye con la muerte. Después de cada vida, atraviesa otros cuerpos en un proceso que la tradición llamó *metempsicosis*. 
+[[Pitágoras]] sostenía además que el alma es inmortal y no se destruye con la muerte. Después de cada vida, atraviesa otros cuerpos en un proceso que la tradición llamó *[[Metempsicosis|metempsicosis]]*. 
+
 La manera en que una persona vive influye en estas transformaciones, de modo que la [[Ética|ética]] tiene consecuencias espirituales.
 
 En este marco, el conocimiento no es solo acumulación de información. El estudio de las matemáticas, la música y la [[Filosofía|filosofía]] cumple una función purificadora, porque permite comprender el orden del mundo y reproducirlo en el interior. 

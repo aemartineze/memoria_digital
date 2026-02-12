@@ -10,7 +10,7 @@ Para los pitagóricos, todo puede expresarse mediante números.  Estos explican 
 Las matemáticas no eran solo técnicas, sino un medio para comprender el orden del universo y del alma.
 ## El alma
 
-Pitágoras creía que el alma es inmortal y atraviesa múltiples vidas.  Este proceso se llama [[Metempsicosis|metempsicosis]]. La forma de vida y la conducta [[ética]] influyen en el destino del alma.
+Pitágoras creía que el alma es inmortal y atraviesa múltiples vidas.  Este proceso se llama [[Metempsicosis|metempsicosis]]. La forma de vida y la conducta [[Ética]] influyen en el destino del alma.
 
 ## Forma de vida pitagórica
 
