@@ -28,3 +28,7 @@ No solo describe datos, sino que busca identificar patrones, relaciones y tenden
 - [[Muestra]]
 - [[Población]]
 
+## Recursos útiles
+
+- [[Estadística interactiva]]
+

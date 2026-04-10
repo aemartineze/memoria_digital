@@ -1,3 +1,8 @@
+---
+aliases:
+  - Librería pytrends
+  - librería pytrends
+---
 
 Librería de [[ Python]] que permite la conexión con la [[API]] no oficial para [[Google Trends]]
 

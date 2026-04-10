@@ -13,7 +13,7 @@ Fecha: 12/feb/2026
 
 ## Cómo podría usarlo
 - Como ejemplo de [[Data storytelling]] en clase.
-- Como inspiración para un proyecto de visualización en Ecuador.
+- Como inspiración para un proyecto de [[Visualización de datos|visualización de datos]] en Ecuador.
 - Como caso para explicar uso creativo de [[Datos abiertos]].
 - Como referencia para integrar [[Narrativa|narrativa]] y [[Estadística|estadística]].
 
@@ -30,6 +30,6 @@ Fecha: 12/feb/2026
 
 ## Recursos útiles
 - Fuente de pájaros:  https://ebird.org/home, https://www.allaboutbirds.org/news/
-- Para [[Python]] [[Librería pytrends]]
+- Para [[Python]] la [[pytrends|librería pytrends]]
 
 
